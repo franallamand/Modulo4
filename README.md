@@ -3,7 +3,7 @@
 
 ## Grupo Los Pookies
 - Facundo Dip: https://github.com/facudip86/Entrega_Modulo_4.git
-- Francisco Allamand: 
+- Francisco Allamand: https://github.com/franallamand/Modulo4.git
 - Pedro Elizalde: https://github.com/pedroelizalde05/modulo4.git
 - Mateo Notti: https://github.com/nottimateo-max/MODULO4.git
 
